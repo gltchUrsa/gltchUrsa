@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @gltchUrsa
+- 👀 I’m interested in Open Source apps and projects
+- 🌱 I’m currently learning Python and Ruby
+- 💞️ I’m looking to collaborate on At least 1 project
+- 📫 How to reach me ?
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am a bear
